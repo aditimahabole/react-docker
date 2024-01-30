@@ -1,3 +1,12 @@
+# Build Docker Image
+    docker build -t react-app:dev .
++ To see docker images
+  
+      docker images
++ To Run image
+
+      docker run -p 5173:5173 react-app:dev
+All done !
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
