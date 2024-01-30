@@ -44,15 +44,15 @@ All done !
 
         acorn run -i -n app .
 
-  + A link would be generated and you can run your app
-  + If you make new chnages to our app then it will be reflected in current app also
-  + but if you shut down your server then it wont be shown
-  + so run below command
++ A link would be generated and you can run your app
++ If you make new chnages to our app then it will be reflected in current app also
++ but if you shut down your server then it wont be shown
++ so run below command
     
           acorn run -n app .
 
-  + And whatever you get a link will run you app without starting your your local server
-  + All done !
++ And whatever you get a link will run you app without starting your your local server
++ All done !
 
 
 # React + Vite
