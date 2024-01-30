@@ -36,9 +36,9 @@ All done !
 + After that login to acorn thru terminal
 
         acorn login
-+ Now to run our app
-+ app is our docker container and . in current directory
-+ now before running below command please delete node modules as it would caz some error
++ Now to run our app do below steps
++ In the command below : app is our docker container and . in current directory
++ Now before running below command please delete <strong> node modules </strong> as it would caz some error
 
         acorn run -i -n app .
 
