@@ -1,6 +1,8 @@
 # Build Docker Image
 + refer this video : https://youtu.be/dfTco9hmXEM?si=BflFcthULqv3JK3M
   
++ To build docker image write below command reac-app:dev is name of app and . is current directory
+  
         docker build -t react-app:dev .
 + To see docker images
   
